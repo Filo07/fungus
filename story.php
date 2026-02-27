@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.php">Home</a>
+            <a href="story.php">Story</a>
+            <a href="char.php">Characters</a>
+            <a href="gall.php">Gallery</a>
+            <a href="merch.php">Merch</a>
+            <a href="about.php">About</a>
+        </nav>
+    </header>
+    <main>
+        <div class="frontbild2">
+            <h1>The Story</h1>
+            <img src="frontbildstory.jpg" alt="Ellie and Dina sitting on a horse together">
+        </div>
+        <section class="storytext">
+            <article>
+                <p><bold>The Last of Us</bold> takes place in a world devastated by a deadly fungal infection that has collapsed civilization. Cities lie abandoned, governments have fallen, and survivors live in heavily controlled quarantine zones or dangerous wastelands.
+                The outbreak was caused by a mutated strain of the Cordyceps fungus, which infects humans and slowly turns them into aggressive, mindless hosts. As the infection spread across the globe, society quickly descended into chaos.
+                Twenty years after the initial outbreak, the story follows <bold>Joel Miller</bold>, a hardened survivor who has lost almost everything. His life changes when he is tasked with escorting a teenage girl, <bold>Ellie Williams</bold>, across the United States.<br>
+                <bold>Ellie</bold> may be humanity’s last hope<br>
+                Unlike others, she is immune to the infection. A resistance group known as the Fireflies believes her immunity could help create a cure. What begins as a simple job slowly turns into a brutal journey through ruined cities, hostile survivors, and infected creatures.<br>
+                Along the way, <bold>Joel</bold> and <bold>Ellie</bold> form a powerful bond, learning to trust each other in a world where trust can be deadly.<br>
+                At its core, The Last of Us is not just about survival—it’s about loss, loyalty, and how far someone will go to protect the people they love.</p>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <h2>© 2026 <a href="https://github.com/Filo07">Filip Bäckman</a></h2>
+    </footer>
+</body>
+</html>
