@@ -32,6 +32,17 @@
                 Along the way, <bold>Joel</bold> and <bold>Ellie</bold> form a powerful bond, learning to trust each other in a world where trust can be deadly.<br>
                 At its core, The Last of Us is not just about survival—it’s about loss, loyalty, and how far someone will go to protect the people they love.</p>
             </article>
+            <div class="mushroom">
+                <article>
+                    <h1>Cordyceps</h1>
+                    <p>The cordyceps fungus in The Last of Us is a fictional infection that causes a global collapse of society. 
+                        It is inspired by the real fungus Ophiocordyceps unilateralis, which can control the behavior of insects. 
+                        In the story, the fungus evolves to infect humans, spreading through bites, infected food, or contact with fungal growth. 
+                        Once inside the body, it attacks the brain, takes control of the host, and slowly transforms the person into a violent, 
+                        fungus-covered creature that helps spread the infection further.
+                        Over time, infected people change into different stages as the fungus grows.</p>
+                </article>
+            </div>
         </section>
     </main>
     <footer>
