@@ -8,19 +8,12 @@
 </head>
 <body>
     <header>
-        <nav>
-            <a href="index.php">Home</a>
-            <a href="story.php">Story</a>
-            <a href="char.php">Characters</a>
-            <a href="gall.php">Gallery</a>
-            <a href="merch.php">Merch</a>
-            <a href="about.php">About</a>
-        </nav>
+        <?php require_once 'nav.php'; ?>
     </header>
     <main>
         <div class="frontbild">
             <h1>Endure and Survive</h1>
-            <img src="frontpage.jpg" alt="Ellie hiding behind a tree">
+            <img src="bilder/frontpage.jpg" alt="Ellie hiding behind a tree">
         </div>
         <div class="frontknappar">
             <button type="submit" formaction="merch.php">Shop Merch</button>

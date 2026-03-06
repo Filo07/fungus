@@ -8,19 +8,12 @@
 </head>
 <body>
     <header>
-        <nav>
-            <a href="index.php">Home</a>
-            <a href="story.php">Story</a>
-            <a href="char.php">Characters</a>
-            <a href="gall.php">Gallery</a>
-            <a href="merch.php">Merch</a>
-            <a href="about.php">About</a>
-        </nav>
+        <?php require_once 'nav.php'; ?>
     </header>
     <main>
         <div class="frontbild2">
             <h1>The Story</h1>
-            <img src="frontbildstory.jpg" alt="Ellie and Dina sitting on a horse together">
+            <img src="bilder/frontbildstory.jpg" alt="Ellie and Dina sitting on a horse together">
         </div>
         <section class="storytext">
             <article>

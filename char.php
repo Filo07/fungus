@@ -8,19 +8,12 @@
 </head>
 <body>
     <header>
-        <nav>
-            <a href="index.php">Home</a>
-            <a href="story.php">Story</a>
-            <a href="char.php">Characters</a>
-            <a href="gall.php">Gallery</a>
-            <a href="merch.php">Merch</a>
-            <a href="about.php">About</a>
-        </nav>
+        <?php require_once 'nav.php'; ?>
     </header>
     <main>
         <div class="frontbild3">
             <h1>The Characters</h1>
-            <img src="char.jpg" alt="Ellie, angry and bloodied">
+            <img src="bilder/char.jpg" alt="Ellie, angry and bloodied">
         </div>
         <section class="chartext">
             <article>

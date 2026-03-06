@@ -8,37 +8,30 @@
 </head>
 <body>
     <header>
-        <nav>
-            <a href="index.php">Home</a>
-            <a href="story.php">Story</a>
-            <a href="char.php">Characters</a>
-            <a href="gall.php">Gallery</a>
-            <a href="merch.php">Merch</a>
-            <a href="about.php">About</a>
-        </nav>
+        <?php require_once 'nav.php'; ?>
     </header>
     <main>
-        <div class="frontbild4">
+        <div class="frontbild">
             <h1>The Gallery</h1>
             <p>All the images used in this website and more!</p>
         </div>
         <section class="gallery">
-            <div class="b1"><img src="ellie.jpg" alt=""></div>
-            <div class="b2"><img src="joel.jpg" alt=""></div>
-            <div class="b3"><img src="dina.jpg" alt=""></div>
-            <div class="b4"><img src="tommy.jpg" alt=""></div>
-            <div class="b5"><img src="abby.jpg" alt=""></div>
-            <div class="b6"><img src="clicker.jpg" alt=""></div>
-            <div class="b7"><img src="char.jpg" alt=""></div>
-            <div class="b8"><img src="frontbildstory.jpg" alt=""></div>
-            <div class="b9"><img src="frontpage.jpg" alt=""></div>
-            <div class="b10"><img src="" alt=""></div>
-            <div class="b11"><img src="" alt=""></div>
-            <div class="b12"><img src="" alt=""></div>
-            <div class="b13"><img src="" alt=""></div>
-            <div class="b14"><img src="" alt=""></div>
-            <div class="b15"><img src="" alt=""></div>
-            <div class="b16"><img src="" alt=""></div>
+            <div class="b1"><img src="bilder/ellie.jpg" alt=""></div>
+            <div class="b2"><img src="bilder/joel.jpg" alt=""></div>
+            <div class="b3"><img src="bilder/dina.jpg" alt=""></div>
+            <div class="b4"><img src="bilder/tommy.jpg" alt=""></div>
+            <div class="b5"><img src="bilder/abby.jpg" alt=""></div>
+            <div class="b6"><img src="bilder/clicker.jpg" alt=""></div>
+            <div class="b7"><img src="bilder/char.jpg" alt=""></div>
+            <div class="b8"><img src="bilder/frontbildstory.jpg" alt=""></div>
+            <div class="b9"><img src="bilder/frontpage.jpg" alt=""></div>
+            <div class="b10"><img src="bilder/" alt=""></div>
+            <div class="b11"><img src="bilder/" alt=""></div>
+            <div class="b12"><img src="bilder/" alt=""></div>
+            <div class="b13"><img src="bilder/" alt=""></div>
+            <div class="b14"><img src="bilder/" alt=""></div>
+            <div class="b15"><img src="bilder/" alt=""></div>
+            <div class="b16"><img src="bilder/" alt=""></div>
             <div class="b17"><img src="" alt=""></div>
             <div class="b18"><img src="" alt=""></div>
             <div class="b19"><img src="" alt=""></div>
