@@ -11,7 +11,7 @@
         <?php require_once 'nav.php'; ?>
     </header>
     <main>
-        <div class="frontbild2">
+        <div class="frontbild">
             <h1>The Story</h1>
             <img src="bilder/frontbildstory.jpg" alt="Ellie and Dina sitting on a horse together">
         </div>

@@ -11,7 +11,7 @@
         <?php require_once 'nav.php'; ?>
     </header>
     <main>
-        <div class="frontbild3">
+        <div class="frontbild">
             <h1>The Characters</h1>
             <img src="bilder/char.jpg" alt="Ellie, angry and bloodied">
         </div>

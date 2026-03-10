@@ -5,7 +5,8 @@
     box-sizing: border-box;
 }
 header{
-    background-color: #0E0E0E;
+    background-color: rgba(14,14,14,0.7);
+    backdrop-filter: blur(5px);
     padding: 20px;
     text-align: center;
     display: flex;
@@ -13,19 +14,25 @@ header{
     flex-direction: row;
     position: sticky;
     top: 0;
+    height: 85px;
+    z-index: 1000;
 }
-a{
+header a{
     color: #D6D1C4;
     text-decoration: none;
-    margin: 0 15px;
-    font-size: 18px;
+    margin: 0 30px;
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+    text-shadow: 3px 3px 5px rgba(0,0,0,0.5);
+    transition: text-shadow 0.3s ease, color 0.3s ease;
 }
 header img{
     width: 100px;
     margin: 0 15px;
 }
-a:hover{
+header a:hover{
     color: #F2F2F2;
+    text-shadow: 3px 3px 5px rgba(255, 255, 255, 0.523);
 }
 footer{
     background-color: #0E0E0E;
@@ -33,5 +40,32 @@ footer{
     text-align: center;
     padding: 5px;
     bottom: 0;
+    width: 100%;
+}
+footer a{
+    color: #D6D1C4;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+footer a:hover{
+    color: #F2F2F2;
+}
+main{
+    overflow-x: hidden;
+    scroll-behavior:smooth ;
+}
+.frontbild{
+    overflow-y: hidden;
+    position: relative;
+
+}
+.frontbild h1{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.frontbild img{
     width: 100%;
 }
