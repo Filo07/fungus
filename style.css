@@ -31,8 +31,8 @@ header img{
     margin: 0 15px;
 }
 header a:hover{
-    color: #F2F2F2;
-    text-shadow: 3px 3px 5px rgba(255, 255, 255, 0.523);
+    color: #8C2F2F;
+    text-shadow: 3px 3px 5px rgba(188, 28, 0, 0.523);
 }
 footer{
     background-color: #0E0E0E;
@@ -60,12 +60,37 @@ main{
     position: relative;
 
 }
+
 .frontbild h1{
     position:absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    color: #e3ddd0;
+    font-size: 75px;
+    font-family: 'Bebas Neue', cursive;
+    padding-top:0.8rem;
+    padding-bottom:0.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    border:1px solid rgba(255, 255, 255, 0);
+    border-radius: 2.5rem;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+    backdrop-filter: blur(3px);
 }
 .frontbild img{
     width: 100%;
+}
+
+.frontknappar{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+main{
+    background: #1B3A2B;
+}
+body{
+    background: #000;
 }
