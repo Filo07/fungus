@@ -16,8 +16,8 @@
             <img src="bilder/frontpage.jpg" alt="Ellie hiding behind a tree">
         </div>
         <div class="frontknappar">
-            <button type="submit" formaction="merch.php">Shop Merch</button>
-            <button type="submit" formaction="story.php">Explore The Story</button>
+            <a href="story.php" class="buttON">The Story</a>
+            <a href="char.php" class="buttON">The Characters</a>
         </div>
     </main>
     <footer>
