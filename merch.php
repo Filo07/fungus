@@ -13,7 +13,7 @@
     <main>
         <div class="frontbild">
             <h1>Merchandise</h1>
-            <img src="bilder/.jpg" alt="">
+            <img src="bilder/merch2.jpg" alt="">
         </div>
         <section class="merch">
             <article>

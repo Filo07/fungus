@@ -17,6 +17,7 @@
         </div>
         <section class="chartext">
             <article>
+                <div class="filler"></div>
                 <div>
                     <h1>Joel Miller</h1><br>
                     <p>Joel is a grizzled survivor who has endured immense loss. 
@@ -24,9 +25,10 @@
                         Joel’s journey with Ellie forces him to confront his past and rediscover his 
                         humanity in a world that has lost so much.</p>
                 </div>
-                <img src="joel.png" alt="Joel Miller">
+                <img src="bilder/joel.png" alt="Joel Miller">
             </article>
             <article>
+                <div class="filler"></div>
                 <div>
                     <h1>Ellie Williams</h1><br>
                     <p>Ellie is a brave and determined teenager who has grown up in the post-apocalyptic world. 
@@ -34,9 +36,10 @@
                         Ellie’s resilience, wit, and emotional depth make her a compelling character as she 
                         navigates the dangers of the world alongside Joel.</p>
                 </div>
-                <img src="ellie.png" alt="Ellie Williams">
+                <img src="bilder/ellie.png" alt="Ellie Williams">
             </article>
             <article>
+                <div class="filler"></div>
                 <div>
                     <h1>Dina</h1><br>
                     <p>Dina is a strong and compassionate survivor who becomes Ellie’s close friend and love interest. 
@@ -44,9 +47,10 @@
                         Dina’s relationship with Ellie adds emotional depth to the story, highlighting themes of love 
                         and connection amidst the chaos.</p>
                 </div>
-                <img src="dina.png" alt="Dina">
+                <img src="bilder/dina.png" alt="Dina">
             </article>
             <article>
+                <div class="filler"></div>
                 <div>
                     <h1>Tommy Miller</h1><br>
                     <p>Tommy is Joel’s younger brother and a former soldier. 
@@ -54,9 +58,10 @@
                         Tommy’s desire to rebuild society and find a better future contrasts with Joel’s focus on survival, 
                         creating tension between the two brothers.</p>
                 </div>
-                <img src="tommy.png" alt="Tommy Miller">
+                <img src="bilder/tommy.png" alt="Tommy Miller">
             </article>
             <article>
+                <div class="filler"></div>
                 <div>
                     <h1>Abby</h1><br>
                     <p>Abby is a young girl who becomes part of Joel and Ellie’s group. 
@@ -64,7 +69,7 @@
                         Abby’s presence in the story adds a new dynamic to the group, as she challenges 
                         Joel and Ellie to see beyond their own experiences.</p>
                 </div>
-                <img src="abby.png" alt="Abby">
+                <img src="bilder/abby.png" alt="Abby">
             </article>
         </section>
     </main>

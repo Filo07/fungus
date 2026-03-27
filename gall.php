@@ -14,6 +14,7 @@
         <div class="frontbild">
             <h1>The Gallery</h1>
             <p>All the images used in this website and more!</p>
+            <img src="bilder/gallery1.webp" alt="">
         </div>
         <section class="gallery">
             <div class="b1"><img src="bilder/ellie.jpg" alt=""></div>
