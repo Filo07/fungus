@@ -14,6 +14,7 @@
         <div class="frontbild">
             <h1>About This Website</h1>
             <p>Learn more about the inspiration and creation of this website!</p>
+            <img src="bilder/maxresdefault.jpg" alt="about image">
         </div>
         <section class="about">
             <article>
